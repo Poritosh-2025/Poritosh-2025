@@ -43,9 +43,9 @@ Experienced Backend Engineer with a focus on building scalable web applications 
 
 ### 📫 How to reach me:
 
-* **LinkedIn:** [linkedin.com/in/poritosh-pal](https://www.linkedin.com/in/poritosh-pal)
+* **LinkedIn:** [linkedin.com/in/poritosh-pal](https://www.linkedin.com/in/poritosh-python-dev)
 * **Portfolio:** [pkpal.netlify.app](https://pkpal.netlify.app/)
-* **Email:** poritosh.dev@example.com
+* **Email:** pk.cse.tech@gmail.com
 
 ---
 "The best way to predict the future is to create it." 🚀
