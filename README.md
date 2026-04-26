@@ -27,17 +27,17 @@ Experienced Backend Engineer with a focus on building scalable web applications 
 
 * **Tech Stack:** Python, FastAPI/Django, WebSockets (for low latency), Voice Cloning APIs, PostgreSQL, Redis.
 
-* ***Key Features:**
+* **Key Features:**
 
-Real-Time Voice Engine: Engineered a low-latency pipeline for seamless, streaming voice interactions.
+**Real-Time Voice Engine: Engineered a low-latency pipeline for seamless, streaming voice interactions.
 
-Dynamic Character System: Implemented voice cloning to create personalized personas like teachers, doctors, or engineers.
+**Dynamic Character System: Implemented voice cloning to create personalized personas like teachers, doctors, or engineers.
 
-Monetization Architecture: Developed a complete credits, referrals, and billing system for scalable growth.
+**Monetization Architecture: Developed a complete credits, referrals, and billing system for scalable growth.
 
-Admin Analytics Dashboard: Built a comprehensive monitoring tool for tracking calls, user activity, and revenue metrics.
+**Admin Analytics Dashboard: Built a comprehensive monitoring tool for tracking calls, user activity, and revenue metrics.
 
-Scalable Security: Managed the foundational architecture and secure authentication for high-volume user access.
+**Scalable Security: Managed the foundational architecture and secure authentication for high-volume user access.
 
 ---
 
