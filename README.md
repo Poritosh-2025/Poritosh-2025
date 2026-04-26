@@ -29,15 +29,15 @@ Experienced Backend Engineer with a focus on building scalable web applications 
 
 * **Key Features:**
 
-**Real-Time Voice Engine: Engineered a low-latency pipeline for seamless, streaming voice interactions.
+__Real-Time Voice Engine:__ Engineered a low-latency pipeline for seamless, streaming voice interactions.
 
-**Dynamic Character System: Implemented voice cloning to create personalized personas like teachers, doctors, or engineers.
+__Dynamic Character System:__ Implemented voice cloning to create personalized personas like teachers, doctors, or engineers.
 
-**Monetization Architecture: Developed a complete credits, referrals, and billing system for scalable growth.
+__Monetization Architecture:__ Developed a complete credits, referrals, and billing system for scalable growth.
 
-**Admin Analytics Dashboard: Built a comprehensive monitoring tool for tracking calls, user activity, and revenue metrics.
+__Admin Analytics Dashboard:__ Built a comprehensive monitoring tool for tracking calls, user activity, and revenue metrics.
 
-**Scalable Security: Managed the foundational architecture and secure authentication for high-volume user access.
+__Scalable Security:__ Managed the foundational architecture and secure authentication for high-volume user access.
 
 ---
 
