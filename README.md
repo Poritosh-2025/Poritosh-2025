@@ -22,6 +22,23 @@ Experienced Backend Engineer with a focus on building scalable web applications 
 * **Tech Stack:** Python, FastAPI, Gemini API, PostgreSQL.
 * **Key Features:** Image-to-nutrition analysis and secure automated health tracking.
 
+###[TalkToMyChild – Real-Time AI Call Platform](https://github.com/poritosh-2025/TalkToMyChild)
+* **Description:** A specialized real-time AI-powered call pipeline for interactive voice communication between children and AI characters.
+
+* **Tech Stack:** Python, FastAPI/Django, WebSockets (for low latency), Voice Cloning APIs, PostgreSQL, Redis.
+
+* ***Key Features:**
+
+Real-Time Voice Engine: Engineered a low-latency pipeline for seamless, streaming voice interactions.
+
+Dynamic Character System: Implemented voice cloning to create personalized personas like teachers, doctors, or engineers.
+
+Monetization Architecture: Developed a complete credits, referrals, and billing system for scalable growth.
+
+Admin Analytics Dashboard: Built a comprehensive monitoring tool for tracking calls, user activity, and revenue metrics.
+
+Scalable Security: Managed the foundational architecture and secure authentication for high-volume user access.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
